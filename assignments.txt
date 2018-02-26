@@ -1,0 +1,21 @@
+Course Assignments
+===================
+
+
+1. Assignment 01
+-----------------
+Read the ebook "Design of a Programmer" and write a 300-350 word essay explaning your take away 
+and understanding from the book. The title of the essay has to be 'The Art of Program Thinking'. 
+
+The ebook can be downloaded at:
+https://www.smashwords.com/books/view/639609
+
+Deadline: March 11, 2018. EOD
+
+Submission Mode: Email with the subject line - "DSA: Essay Submission". Do add your name and USN
+in the .doc file where you submit the essay from. 
+
+
+2. Assignment 02
+-----------------
+*Coming Soon*
