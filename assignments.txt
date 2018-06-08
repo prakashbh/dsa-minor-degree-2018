@@ -15,7 +15,20 @@ Deadline: March 26, 2018. EOD
 Submission Mode: Email with the subject line - "DSA: Essay Submission". Do add your name and USN
 in the .doc file where you submit the essay from. 
 
+THIS WILL BE EVALUATED FOR 05 MARKS
+
 
 2. Assignment 02
 -----------------
-*Coming Soon*
+There will be a minor exam conducted. 
+
+THIS WILL BE EVALUATED FOR 20 MARKS
+
+
+
+3. Assignment 03
+-----------------
+In a team of 4, a course project will be completed using data structures and relevant algorithms. 
+Domains will be assigned to each team on which the project will be carried out. 
+
+THIS WILL BE EVALUATED FOR 25 MARKS
