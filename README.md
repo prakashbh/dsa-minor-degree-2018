@@ -6,6 +6,8 @@ This repository holds all the resources of DSA minor degree 2018.
 The attendance sheet can be accessed here:
 https://tinyurl.com/y7cjpejn
 
+CIE Marks can be accessed here:
+https://tinyurl.com/ybhdt292
 
 You can find some handy codes here:
 https://github.com/prakashbh/day-today-codes
